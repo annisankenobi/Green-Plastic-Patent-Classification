@@ -1,16 +1,16 @@
 # Green-Plastic-Patent-Classification
 
-### Background:
+### Introduction:
 
-### Problem:
+### Purpose and Scope:
 
-### Prior Solutions:
+### Overview of the Model:
 
-### My Approach:
+### Model Development, Implementation and Use:
 
-### Data Sources and Methodology:
+### Model Validation:
 
-### So What?
+### Further considerations:
 
-### Next Steps:
+### Conclusion:
 * xyz
