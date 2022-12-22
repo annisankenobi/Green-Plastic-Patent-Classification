@@ -1,4 +1,4 @@
-# Green-Plastic-Patent-Classification
+# Green-Plastic-Classification-Model
 
 ### Introduction:
 
